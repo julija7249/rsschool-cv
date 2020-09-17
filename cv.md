@@ -12,5 +12,10 @@ I worked as a business development Manager for 10 years.
 * Advert School, Internet marketer in Facebook, 2020
 * Advert School, Mobile advertising in Facebook, 2020
 * Project Management Club, Project Manager, 2020
+## Education
+* Vladimir State University, Information Systems and Technologies, 2004-2009
+* Vladimir State University, Economics, 2006-2010
+## English
+Vladimir State University, Translator in professional communication, 2005-2009
 
 
