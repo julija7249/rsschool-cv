@@ -7,5 +7,10 @@ I graduated from the University of Vladimir in Information systems and technolo
 I’m ready to get new knowledge and skills.
 ## Skills
 IDEF0, IDEF, UML, Basic HTML, Basic CSS, Basic Javascript, Ads manager
+## Expirience
+I worked as a business development Manager for 10 years.
+* Advert School, Internet marketer in Facebook, 2020
+* Advert School, Mobile advertising in Facebook, 2020
+* Project Management Club, Project Manager, 2020
 
 
